@@ -105,10 +105,10 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `password`) VALUES
-(1, 'admin', '$2y$10$putQBxuiV0siFaZukBPPNOz0ZnPjUIjH5u3s14aMZ39Zl7QOEm4iq'),
-(2, 'admin2', '$2y$10$Q4TeH/4H8i4pSgf5QfnAp.Kazk0bphJRTAqrQo0fomxIDXx/tygea'),
-(3, 'admin3', '$2y$10$EsXGAmrVuTUfFt3PHitDEePB9IaF8yR1nvOzEblwUbtFG2cz4KsB.'),
-(4, 'admin4', '$2y$10$GyHADE16b3CQtVO7KadiCuK6u7O0rw/YYmj/LoT926P7aNwtOp2dG');
+(1, 'depe', '$2y$10$putQBxuiV0siFaZukBPPNOz0ZnPjUIjH5u3s14aMZ39Zl7QOEm4iq'),
+(2, 'depe2', '$2y$10$Q4TeH/4H8i4pSgf5QfnAp.Kazk0bphJRTAqrQo0fomxIDXx/tygea'),
+(3, 'depe3', '$2y$10$EsXGAmrVuTUfFt3PHitDEePB9IaF8yR1nvOzEblwUbtFG2cz4KsB.'),
+(4, 'depe4', '$2y$10$GyHADE16b3CQtVO7KadiCuK6u7O0rw/YYmj/LoT926P7aNwtOp2dG');
 
 --
 -- Indexes for dumped tables
